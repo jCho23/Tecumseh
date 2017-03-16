@@ -1,14 +1,14 @@
 # Tecumseh
 Automation Test Scripts for Tecumseh
 
-#Authors
+# Authors
 
 **June Cho**
 <br>
 *Microsoft Technical Solutions Professional*
 
 
-#License
+# License
 
 MIT License
 
